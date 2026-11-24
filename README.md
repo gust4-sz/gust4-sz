@@ -33,8 +33,8 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
   <img width="12" />
 ### Back-end & Dados
 
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+
 
 ### Ferramentas
 
