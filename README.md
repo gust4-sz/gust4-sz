@@ -86,11 +86,19 @@ Aplicação desenvolvida em Python para organizar receitas, despesas, investimen
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
+<div align="center">
+
+  <a href="https://github.com/christianalberto/github-insights">
+    <img
+    src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=gust4-sz&style=night-rainbow&animate=true"
+    alt="Gustavo's 3D GitHub Contributions"
+    width="100%"
+    />
+  </a>
+
+</div>
+
+<div align="center">
 
 ###
 
