@@ -84,11 +84,15 @@ Aplicação desenvolvida em Python para organizar receitas, despesas, investimen
 
 ## 🐍 Gráfico de contribuições
 
-<div align="center">
+###
 
-<img src="https://raw.githubusercontent.com/gust4-sz/gust4-sz/output/bomberman-contribution-graph.svg" alt="Gráfico de contribuições do GitHub no estilo Bomberman" width="100%" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-</div>
+###
 
 ---
 
