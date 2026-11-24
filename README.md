@@ -27,22 +27,27 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
   
 ### Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
 ### Back-end & Dados
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+</div>
 
 ### Ferramentas
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
+  <img width="12" />
 </div>
 
 ---
@@ -52,10 +57,7 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
 * 🌐 Desenvolvimento de aplicações web
 * ⚙️ Automação de processos
 * 📊 Sistemas para tratamento e visualização de dados
-* 🔌 Integração com APIs e serviços externos
-* 🗄️ Desenvolvimento e gerenciamento de bancos de dados
 * 🐍 Desenvolvimento de aplicações com Python
-* ⚛️ Interfaces modernas com React e Next.js
 * 🛠️ Soluções para problemas operacionais e de infraestrutura
 * 🚀 Desenvolvimento de produtos e sistemas próprios
 
@@ -65,9 +67,9 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodansk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gust4-sz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodansk&layout=compact&theme=radical&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust4-sz&layout=compact&theme=radical&langs_count=8"/>
 
 </div>
 
@@ -87,15 +89,15 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/caio-vilante/">
+<a href="https://www.linkedin.com/in//">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/caio_vilantee">
+<a href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/caiodansk">
+<a href="https://github.com/gust4-sz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -105,7 +107,7 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
 
 <div align="center">
 
-📧 **[caiovilante124@gmail.com](mailto:caiovilante124@gmail.com)**
+📧 **[gusouza777@gmail.com](mailto:gusouza777@gmail.com)**
 
 </div>
 
