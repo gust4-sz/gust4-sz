@@ -78,16 +78,19 @@ Tenho como objetivo evoluir constantemente como desenvolvedor e transformar conh
 
 ## 🐍 Contribuições
 
-<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/output/bomberman-contribution-graph-dark.svg">
 
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gust4-sz/gust4-sz/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  </picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gust4-sz/gust4-sz/output/bomberman-contribution-graph.svg">
 
-</div>
-
+  <img
+    alt="Bomberman contribution graph"
+    src="https://raw.githubusercontent.com/gust4-sz/gust4-sz/output/bomberman-contribution-graph.svg">
+</picture>
 ---
 
 ## 🌎 Vamos nos conectar?
