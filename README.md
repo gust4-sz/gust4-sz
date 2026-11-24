@@ -82,23 +82,6 @@ Aplicação desenvolvida em Python para organizar receitas, despesas, investimen
 
 ---
 
-## 🐍 Gráfico de contribuições
-
-###
-
-<div align="center">
-
-  <img src="https://github-profiles-insights.vercel.app/api/contrib-3d?username=gust4-sz&style=night-rainbow&animate=true"
-  alt="Gustavo - 3D GitHub Contributions"
-  width="100%"
-  />
-
-</div>
-
-###
-
----
-
 ## 🌎 Vamos nos conectar?
 
 <div align="center">
